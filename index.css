@@ -128,7 +128,7 @@ h1 {
 @media only screen and (min-width: 300px) {
   .button {
     margin: auto;
-    padding: 0.5rem 6rem;
+    padding: 0.5rem 3rem;
     box-shadow: 0px 20px 60px -7px rgba(0, 0, 0, 0.75);
   }
   body {
@@ -145,7 +145,7 @@ height: 100%;
   }
   
   #block {
-   width:60%;
+   width:fit-content;
    margin-left:10px;
    margin-right:10px;
   }

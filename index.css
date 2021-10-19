@@ -69,7 +69,7 @@ h1 {
   font-size: 16px;
   color: aliceblue;
   border-radius: 5px;
-  padding: 0.5rem 3.5rem;
+  padding: 0.5rem 1.5rem;
   margin: 0 auto;
   font-weight: 700;
   box-shadow: 0px 20px 90px -7px rgba(175, 173, 173, 0.61);
@@ -128,7 +128,7 @@ h1 {
 @media only screen and (min-width: 300px) {
   .button {
     margin: auto;
-    padding: 0.5rem 4rem;
+    padding: 0.5rem 6rem;
     box-shadow: 0px 20px 60px -7px rgba(0, 0, 0, 0.75);
   }
   body {
